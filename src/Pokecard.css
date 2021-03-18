@@ -1,0 +1,10 @@
+.card {
+  background-color: beige;
+  padding: 10px;
+  justify-content: space-between;
+  max-width: 16rem;
+}
+
+.card-deck {
+  justify-content: center;
+}
